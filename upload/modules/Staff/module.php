@@ -17,9 +17,9 @@ class StaffModule extends Module
 	{
 		$module = [
 			'name' => 'Staff',
-			'author' => '<a href="https://xemah.com" target="_blank">Xemah</a>',
-			'version' => '2.11',
-			'namelessVersion' => '2.0.1'
+			'author' => '<a href="https://xemah.com" target="_blank">Xemah</a>, <a href="https://partydragen.com" target="_blank" rel="nofollow noopener">Partydragen</a>',
+			'version' => '2.11.1',
+			'namelessVersion' => '2.2.3'
 		];
 
 		parent::__construct($this, $module['name'], $module['author'], $module['version'], $module['namelessVersion']);
